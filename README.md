@@ -97,11 +97,6 @@ Todo esto servirá como una guía para el desarrollo profesional.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/anhub1/anhub1/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
 
@@ -126,6 +121,3 @@ Todo esto servirá como una guía para el desarrollo profesional.
 - [🛠️ Notepad++](#-analytics)
 - [🛠️ Node.js](#-analytics)
 - [🛠️ MySQL Workbench](#-analytics)
-- [🛠️ Filezilla Client](#-analytics)
-- [🛠️ Notepad++](#-analytics)
-- [🛠️ Node.js](#-analytics)
